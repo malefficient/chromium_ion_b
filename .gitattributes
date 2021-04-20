@@ -1,0 +1,4 @@
+amd64generic-R92_2021_04_20-chromiumos_dev_image.zip filter=lfs diff=lfs merge=lfs -text
+amd64generic-R92_2021_04_20-chromiumos_test_image.zip filter=lfs diff=lfs merge=lfs -text
+kukui-R92_2021_04_20-chromiumos_dev_image.zip filter=lfs diff=lfs merge=lfs -text
+kukui-R92_2021_04_20-chromiumos_test_image.zip filter=lfs diff=lfs merge=lfs -text
